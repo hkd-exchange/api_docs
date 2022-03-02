@@ -15,7 +15,7 @@ https://api.hkd.com
 
 ## REST Quotes, Trading API
 
-* [Signature Authentication](/v1/api/REST_authentication.md)
-* [Request and return format description](/v1/api/REST_request_response.md)
-* [API Reference](/v1/api/REST_api_reference.md)
-* [Error code](/v1/api/REST_error_code.md)
+* [Signature Authentication](/v1/REST_authentication.md)
+* [Request and return format description](/v1/REST_request_response.md)
+* [API Reference](/v1/REST_api_reference.md)
+* [Error code](/v1/REST_error_code.md)
