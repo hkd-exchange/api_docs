@@ -10,7 +10,7 @@ https://api.hkd.com
 
 ### Apply for APP_KEY
 
- [Apply for HKD trading market API_KEY](https://hkd.com/en/apiManage)
+ [Apply for HKD trading market API_KEY](https://hkd.com/en/api_manage)
 
 
 ## REST Quotes, Trading API
