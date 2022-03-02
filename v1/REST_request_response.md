@@ -1,5 +1,5 @@
 ## Request Explanation
-- HKD API server address:https://api.hkd.com
+- HKD API server address: https://api.hkd.com
 - Content-Type:application/json must be declared in the POST request header information.
 - For all request parameters, please follow the API explanation for parameter encapsulation.
 - Submit the encapsulated API request to the server via POST or GET methods, and HKD processes and returns the corresponding JSON format result.
