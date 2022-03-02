@@ -3,7 +3,7 @@ code = 1, it means request succeeded, other situations mean error. See error cod
 
 | Error Code | Explanation |
 | ------ | ------ |
-| -1001 | The request is beyond limit, if you don’t have API_KEY, please[apply for API_KEY](https://hkd.com/en/apiManage)as soon as possible. |
+| -1001 | The request is beyond limit, if you don’t have API_KEY, please[apply for API_KEY](https://hkd.com/en/api_manage)as soon as possible. |
 | -1002 | Invalid API_KEY |
 | -1003 | Invalid signature , pleas refer to [signature verification](/v1/api/REST_authentication.md) |
 | -1004 | Request timestamp has expired |
